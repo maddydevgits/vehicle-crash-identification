@@ -27,7 +27,4 @@ if src_file is not None:
     if(pred == "Accident"):
         prob = (round(prob[0][0]*100, 2))
         st.write(prob)    
-            # to beep when alert:
-            # if(prob > 90):
-            #     os.system("say beep")
 
