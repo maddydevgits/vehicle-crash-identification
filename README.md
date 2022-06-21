@@ -17,6 +17,8 @@ https://www.dropbox.com/s/5a8xeuqcng5b0cg/model_weights.h5?dl=0
 5. pip install numpy
 6. pip install sklearn
 7. pip install matplotlib
+8. pip install opencv-python
+9. pip install pillow
 
 # Execution Process
 1. Install Softwares
